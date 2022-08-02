@@ -58,7 +58,7 @@ name: Testing stuff
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   a_test_job:
