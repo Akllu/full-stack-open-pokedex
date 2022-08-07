@@ -1,1 +1,1 @@
-web: node fail2
+web: node fail
